@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CitiesManager.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:CitiesManager.WebApi.Controllers.v1.AccountController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v1.AccountController.#ctor(Microsoft.AspNetCore.Identity.UserManager{CitiesManager.Core.Identity.ApplicationUser},Microsoft.AspNetCore.Identity.SignInManager{CitiesManager.Core.Identity.ApplicationUser},Microsoft.AspNetCore.Identity.RoleManager{CitiesManager.Core.Identity.ApplicationRole},CitiesManager.Core.ServiceContracts.IJwtService)">
+            <summary>
+            
+            </summary>
+            <param name="userManager"></param>
+            <param name="signInManager"></param>
+            <param name="roleManager"></param>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v1.AccountController.PostRegister(CitiesManager.Core.DTO.RegisterDTO)">
+            <summary>
+            Receiving registerDTO model to add to user data base
+            </summary>
+            <param name="registerDTO">RegisterDTO model to add</param>
+            <returns>Registered users</returns>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v1.AccountController.IsIsEmailAlreadyRegister(System.String)">
+            <summary>
+            Receiving email address to check if it is already in use and returns a boolean response
+            </summary>
+            <param name="email">email address to check</param>
+            <returns>False if not exist, True if exist</returns>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v1.AccountController.PostLogin(CitiesManager.Core.DTO.LoginDTO)">
+            <summary>
+            
+            </summary>
+            <param name="loginDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v1.AccountController.GenerateNewAccessToken(CitiesManager.Core.DTO.TokenModel)">
+            <summary>
+            
+            </summary>
+            <param name="tokenModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v1.AccountController.GetLogout">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v1.CitiesController.GetCities">
+            <summary>
+            Returns a list of Cities object that contains cityID and cityName
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebApi.Controllers.v2.CitiesController.GetCities">
+            <summary>
+            Returns a list of Cities object that contains only cityName
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CitiesManager.WebApi.Filters.TokenValidatorActionFilter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CitiesManager.WebApi.Filters.TokenValidatorActionFilter.#ctor(CitiesManager.Core.ServiceContracts.IJwtService,Microsoft.AspNetCore.Identity.UserManager{CitiesManager.Core.Identity.ApplicationUser})">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CitiesManager.WebApi.Filters.TokenValidatorActionFilter.OnActionExecutionAsync(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext,Microsoft.AspNetCore.Mvc.Filters.ActionExecutionDelegate)">
+            <summary>
+            
+            </summary>
+            <param name="context"></param>
+            <param name="next"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
