@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EoEa4sNHWVxSZ+4FJiXq05IIWN+1eQPLXrhRjl3VVz3DR5DONsq8fSCI5pj8fScKbyhjgIaEazTBWe28aaBDYQ==",
+  "dgSpecHash": "rKs7mzZsXbSpAJKFGgq2WK7cQvD7ticqFFeFH0uSitRUwBFuUs9WPdAzXd6TmSLetlJr9JzDr0koxivSeJnNig==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj",
+  "projectFilePath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

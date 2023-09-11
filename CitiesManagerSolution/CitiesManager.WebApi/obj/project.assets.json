@@ -13272,11 +13272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.WebApi\\CitiesManager.WebApi.csproj",
+      "projectUniqueName": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.WebApi\\CitiesManager.WebApi.csproj",
       "projectName": "CitiesManager.WebApi",
-      "projectPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.WebApi\\CitiesManager.WebApi.csproj",
+      "projectPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.WebApi\\CitiesManager.WebApi.csproj",
       "packagesPath": "C:\\Users\\dekel\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.WebApi\\obj\\",
+      "outputPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dekel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13293,11 +13293,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj": {
-              "projectPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj"
+            "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj": {
+              "projectPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj"
             },
-            "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj": {
-              "projectPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj"
+            "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj": {
+              "projectPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj"
             }
           }
         }

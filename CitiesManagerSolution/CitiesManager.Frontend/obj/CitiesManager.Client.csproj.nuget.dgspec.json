@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj": {}
+    "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj": {
+    "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj",
+        "projectUniqueName": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj",
         "projectName": "CitiesManager.Client",
-        "projectPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj",
+        "projectPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Frontend\\CitiesManager.Client.csproj",
         "packagesPath": "C:\\Users\\dekel\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Frontend\\obj\\",
+        "outputPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dekel\\AppData\\Roaming\\NuGet\\NuGet.Config",

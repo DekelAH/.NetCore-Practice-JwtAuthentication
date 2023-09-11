@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CitiesManager.Infrastructure
-build_property.ProjectDir = D:\Programming\ASP.NET Core\CitiesManagerSolution\CitiesManager.Infrastructure\
+build_property.ProjectDir = D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Infrastructure\

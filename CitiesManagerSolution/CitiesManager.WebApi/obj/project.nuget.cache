@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2cDPPPZsqedw+nHBMFuJRBHtXYlZLQiBhZeIDa9/KhO9xnRgSCdWIS9PQ4QdZ82OzYjVhbpf/J/ipXrWrnMZQ==",
+  "dgSpecHash": "FW8w+JZGgXKpzfr7a0RatqFsfeAFFzpTArS0HuQ6mvNBIEQDA2j9hDzGmL+aR7BlJ1GrVB1MqLDkZLXYkT/4XA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.WebApi\\CitiesManager.WebApi.csproj",
+  "projectFilePath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.WebApi\\CitiesManager.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dekel\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dekel\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

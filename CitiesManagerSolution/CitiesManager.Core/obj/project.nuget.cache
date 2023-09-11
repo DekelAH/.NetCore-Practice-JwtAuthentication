@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pkaXN1+nRIRXPNg3Y9wK4QHaY8b/g38pfzHHBgkAAIpi5KH/gzU0e1j4EAiPjphtC66WyJ8D1srbdQUO3cX+DQ==",
+  "dgSpecHash": "bP+ieHRSxPV149cOVTIaEa1ahrrQz8bIxNQHVf0pmRj6me2JMt52mbzHO5OJGKG8HpprQQKLpIgrgPgYMsepNg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj",
+  "projectFilePath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dekel\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\dekel\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -8484,11 +8484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj",
       "projectName": "CitiesManager.Infrastructure",
-      "projectPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj",
+      "projectPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\dekel\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Infrastructure\\obj\\",
+      "outputPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dekel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8505,8 +8505,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj": {
-              "projectPath": "D:\\Programming\\ASP.NET Core\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj"
+            "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj": {
+              "projectPath": "D:\\Programming\\Github Projects\\.NetCore-Practice-JwtAuthentication\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj"
             }
           }
         }
