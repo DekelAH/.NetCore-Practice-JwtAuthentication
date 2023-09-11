@@ -10,3 +10,15 @@ D:\Programming\ASP.NET Core\CitiesManagerSolution\CitiesManager.Frontend\obj\Deb
 D:\Programming\ASP.NET Core\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\refint\CitiesManager.Client.dll
 D:\Programming\ASP.NET Core\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.pdb
 D:\Programming\ASP.NET Core\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\ref\CitiesManager.Client.dll
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\bin\Debug\net7.0\CitiesManager.Client.deps.json
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\bin\Debug\net7.0\CitiesManager.Client.dll
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\bin\Debug\net7.0\CitiesManager.Client.pdb
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.csproj.AssemblyReference.cache
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.AssemblyInfoInputs.cache
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.AssemblyInfo.cs
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.csproj.CoreCompileInputs.cache
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.dll
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\refint\CitiesManager.Client.dll
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\CitiesManager.Client.pdb
+D:\Programming\Github Projects\.NetCore-Practice-JwtAuthentication\CitiesManagerSolution\CitiesManager.Frontend\obj\Debug\net7.0\ref\CitiesManager.Client.dll
